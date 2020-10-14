@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Türk Sinema Tarihi
 
-You can use the [editor on GitHub](https://github.com/sinemanotlari/sinemanotlari/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+* Sinematografın İlk girişi
+Alexandra Premio (tam anlayamadım ismini) 1886-87
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Türkiyedeki ilk gösterim
+1886-87 Sponeck Birahanesinde Beyoğlunda
+Lumiere kardeşlerin filmleri
 
-### Markdown
+* İlk sabit sinema salonu 
+Pathe Sineması - 1908
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* İlk Konulu Türk Filmi
+Himmet Ağa'nın İzdivacı 
+fakat
+1916 da Sigmund Weinberg tarafından çekilmeye başlanıp
+1919 da Fuat Uzkınay tarafından tamamlanmış. (adam askere gitmiş)
+ya da (tartışmalar var)
+Pençe - Sedat Simavi - 1917 (epey kötü yorum almış)
 
-```markdown
-Syntax highlighted code block
+* İlk Sansür
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sinemanotlari/sinemanotlari/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mürebbiye - Ahmet Fehim - 1919 (biraz fazla şey)
+sansür sebebi protesto.
