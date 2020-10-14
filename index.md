@@ -22,4 +22,4 @@ Pençe - Sedat Simavi - 1917 (epey kötü yorum almış)
 
 Mürebbiye - Ahmet Fehim - 1919 (biraz fazla şey)
 sansür sebebi protesto.
-d
+
